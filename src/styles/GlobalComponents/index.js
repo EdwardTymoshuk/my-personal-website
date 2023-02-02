@@ -267,6 +267,10 @@ export const LinkContainer = styled.div`
   }
 `
 
+export const Link = styled.a`
+  color: inherit;
+`
+
 export const LinkIconImg = styled.div`
   display: flex;  
   height: ${({ large }) => large ? '32px' : '24px'};
