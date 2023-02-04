@@ -85,7 +85,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(76.46920330363976)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.5301025694254924s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.5301025694254924s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.5301025694254924s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -96,7 +96,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(46.86740780019347)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.070637200731454s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.070637200731454s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.070637200731454s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -107,7 +107,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(37.49903997017557)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.355589918035845s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.355589918035845s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.355589918035845s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -195,7 +195,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(96.2442856670354)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6499630913607785s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6499630913607785s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6499630913607785s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -217,7 +217,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(158.4231409190615)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-11.067890298901004s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-11.067890298901004s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-11.067890298901004s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -228,7 +228,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(163.14290180022257)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.253448722835741s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.253448722835741s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.253448722835741s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -426,7 +426,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(7.949402233454594)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.385569403190401s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.385569403190401s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.385569403190401s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -547,7 +547,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(77.42070736379927)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.215873493647555s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.215873493647555s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.215873493647555s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -558,7 +558,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(11.970429104755217)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.0775737986874725s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.0775737986874725s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.0775737986874725s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -591,7 +591,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(58.16004051049151)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.1663624808883046s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.1663624808883046s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.1663624808883046s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -613,7 +613,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(130.0476344891587)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.0889216591411355s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.0889216591411355s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.0889216591411355s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -624,7 +624,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(71.07320953734825)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.8556883835211906s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.8556883835211906s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.8556883835211906s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -635,7 +635,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(131.2684293034217)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.884478311794879s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.884478311794879s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.884478311794879s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -657,7 +657,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(4.48341075736487)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.730968903115057s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.730968903115057s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.730968903115057s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -800,7 +800,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(35.322592866195464)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.88439046486908s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.88439046486908s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.88439046486908s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -932,7 +932,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(42.13719145244646)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.276254453441s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.276254453441s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.276254453441s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1086,7 +1086,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(179.67584983761424)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.941802649730014s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.941802649730014s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.941802649730014s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1163,7 +1163,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(129.30986659029594)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.048444377852363s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.048444377852363s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.048444377852363s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1174,7 +1174,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(33.85147283923844)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.14190332173788s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.14190332173788s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.14190332173788s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1207,7 +1207,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(134.75645567826194)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.532373181530504s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.532373181530504s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.532373181530504s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1218,7 +1218,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(150.08937676757452)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.623803608004899s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.623803608004899s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.623803608004899s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1306,7 +1306,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(146.27752662935407)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.810360424152842s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.810360424152842s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-7.810360424152842s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1350,7 +1350,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(40.3403504500564)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.705822958609657s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.705822958609657s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.705822958609657s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1438,7 +1438,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(14.948548032702153)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.280726444407435s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.280726444407435s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.280726444407435s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1471,7 +1471,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(28.72007400522964)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.502369199643072s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.502369199643072s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.502369199643072s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1482,7 +1482,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(40.64411980594752)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.193588515636609s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.193588515636609s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.193588515636609s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1493,7 +1493,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(96.97844567965333)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.238066886286498s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.238066886286498s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.238066886286498s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1504,7 +1504,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(121.40781786526254)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.3836886008895464s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.3836886008895464s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.3836886008895464s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1515,7 +1515,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(78.09483102319297)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6756250177911606s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6756250177911606s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.6756250177911606s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1526,7 +1526,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(176.70480452589612)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.9338200483592085s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.9338200483592085s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.9338200483592085s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1614,7 +1614,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(135.39306579219547)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.970281023464078s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.970281023464078s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.970281023464078s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1625,7 +1625,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(58.50692451826775)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.077263493795856s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.077263493795856s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.077263493795856s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1680,7 +1680,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(178.01292014142624)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.109129472644701s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.109129472644701s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-4.109129472644701s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1812,7 +1812,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(172.3714893739364)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-8.107095570324445s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-8.107095570324445s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-8.107095570324445s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1823,7 +1823,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(5.6832603256060805)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.14739961065776s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.14739961065776s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.14739961065776s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1834,7 +1834,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(4.036973151234854)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.2064293417156984s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.2064293417156984s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.2064293417156984s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1845,7 +1845,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(17.973211466975947)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.958223453500992s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.958223453500992s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.958223453500992s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1856,7 +1856,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(55.22241695533878)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.4972736353992424s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.4972736353992424s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-3.4972736353992424s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1867,7 +1867,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(161.66617719075356)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.939386902637793s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.939386902637793s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-6.939386902637793s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1878,7 +1878,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(20.396739551795797)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.365846741467437s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.365846741467437s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-1.365846741467437s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1922,7 +1922,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(103.72257015038832)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.0942941509967365s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.0942941509967365s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-5.0942941509967365s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -1955,7 +1955,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(2.037871137690622)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.471223106889056s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.471223106889056s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.471223106889056s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -2043,7 +2043,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(33.55475128564088)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.017805504146486s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.017805504146486s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-9.017805504146486s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -2065,7 +2065,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(134.08959769108992)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.349727966540074s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.349727966540074s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.349727966540074s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -2087,7 +2087,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(1.1037467335927906)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.05716065936750188s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.05716065936750188s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-0.05716065936750188s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -2109,7 +2109,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(173.86312355394608)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.76819670006231s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.76819670006231s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-10.76819670006231s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
@@ -2153,7 +2153,7 @@ const BackgroundAnimation = () => (
 
 <g transform="rotate(23.760789414340874)">
 
-<ellipse cx="0" cy="0" rx="0" ry="0" fill="#ecee08">
+<ellipse cx="0" cy="0" rx="0" ry="0" fill="#d0bb57">
   <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.852150578831273s" calcMode="spline" keySplines="1 0 1 0;0.5 0 0.5 1"></animate>
   <animate attributeName="ry" values="0;5.3999999999999995" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.852150578831273s" calcMode="spline" keySplines="1 0 1 0"></animate>
   <animate attributeName="rx" values="0;22.5" keyTimes="0;1" repeatCount="indefinite" dur="11.11111111111111s" begin="-2.852150578831273s" calcMode="spline" keySplines="0.95 0 0.95 0.05"></animate>
