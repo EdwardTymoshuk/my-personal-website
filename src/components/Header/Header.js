@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <BiPlanet size="3rem" /> <span>Edward Tymoshuk</span>
+          <BiPlanet size="3rem" color="#d0bb57" /> <span>Edward Tymoshuk</span>
         </a>
       </Link>
     </Div1>
