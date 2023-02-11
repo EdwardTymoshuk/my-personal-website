@@ -1,3 +1,14 @@
-## Personal Portfolio
+# Eduard Tymoshuk Personal Portfolio Web Page
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+My personal website where you can find more info about me, watch my CV, finished projects and my skills.
+
+##Stack:
+
+React, Next, Styled Components
+
+##Screenshot
+
+[public/images/project-4]
+
+
+
