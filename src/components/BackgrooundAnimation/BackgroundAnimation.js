@@ -2,7 +2,7 @@ import React from 'react';
 
 const BackgroundAnimation = () => (
   <div>
-    <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="1240" height="699" preserveAspectRatio="xMidYMid" viewBox="0 0 1240 699">
+    <svg xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink" width="1240" height="699" preserveAspectRatio="xMidYMid" viewBox="0 0 1240 699">
 <g transform="translate(620,349.5) scale(1,1) translate(-620,-349.5)"><g transform="translate(297.70408108101225 50.93318188543708)">
 <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="spline" keySplines="1 0 1 0" values="620 349.5;-24.591837837975504 -247.63363622912584" keyTimes="0;1" dur="11.11111111111111s" begin="-1.0219912275683047s"></animateTransform>
 

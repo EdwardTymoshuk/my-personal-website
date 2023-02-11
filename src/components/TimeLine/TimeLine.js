@@ -1,12 +1,13 @@
 import React, { useState, useRef, useEffect } from 'react';
 
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionText, SectionTitle, Link } from '../../styles/GlobalComponents';
+import Button from '../../styles/GlobalComponents/Button';
 import { TimeLineData } from '../../constants/constants';
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
-const Timeline = () => {
+const Timeline = (props) => {
   const [activeItem, setActiveItem] = useState(0);
   const carouselRef = useRef();
 
@@ -32,8 +33,6 @@ const Timeline = () => {
     }
   }
 
-  // snap back to beginning of scroll when window is resized
-  // avoids a bug where content is covered up if coming from smaller screen
   useEffect(() => {
     const handleResize = () => {
       scroll(carouselRef.current, 0);
@@ -46,8 +45,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Hi, my name is Eduard Tymoshuk and I'm 28. I'm a Junior Front End Developer. From a young age, I was interested in web development, was trying to write my first code. Also I`ve learned a HTML, CSS and a basic JavaScript by myself. In 2019, I`ve finished the "JavaScript + React/Redux" course where I got to know the React library, and since then actively spreading my knowledge in this area, completing educational projects, and also being interested in other things related to this technology. You can see several of my example apps in the projects section. For more code please check my <a href="https://github.com/EdwardTymoshuk" target="_blanck">GitHub</a>. Feel free to contact me for more info!
       </SectionText>
+      <Button onClick={props.handleClick}><Link href='/Eduard-Tymoshuk-cv.pdf' target="_blank">Watch CV</Link></Button>
+
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
@@ -66,7 +67,7 @@ const Timeline = () => {
                     height="6"
                     viewBox="0 0 208 6"
                     fill="none"
-                    xmlns="http://www.w3.org/2000/svg">
+                    xmlns="https://www.w3.org/2000/svg">
                     <path
                       fill-rule="evenodd"
                       clip-rule="evenodd"

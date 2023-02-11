@@ -15,14 +15,14 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="eduard.tymoshuk@gmail.com">
+          <LinkItem href="mailto:eduard.tymoshuk@gmail.com">
           eduard.tymoshuk@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Through hardships, to the stars.</Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="https://github.com/EdwardTymoshuk">

@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         Here you can learn more about me, my skills and technologies I`ve working with. You`ll be also able to check my CV and a completed projects. 
         </SectionText>
-        <Button onClick={props.handleClick}><Link href="/src/assets/my-cv.pdf" target="_blank">Watch CV</Link></Button>
+        <Button onClick={props.handleClick}><Link href='/Eduard-Tymoshuk-cv.pdf' target="_blank">Watch CV</Link></Button>
       </LeftSection>
     </Section>
   </>
