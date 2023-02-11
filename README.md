@@ -2,11 +2,11 @@
 
 My personal website where you can find more info about me, watch my CV, finished projects and my skills.
 
-##Stack:
+## Stack:
 
 React, Next, Styled Components
 
-##Screenshot
+## Screenshot
 
 [public/images/project-4]
 
