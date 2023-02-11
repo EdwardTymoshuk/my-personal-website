@@ -8,7 +8,7 @@ React, Next, Styled Components
 
 ## Screenshot
 
-![website screenshot](https://github.com/EdwardTymoshuk/my-personal-website/master/public/images/project-4.jpg?raw=true)
+![website screenshot](https://github.com/EdwardTymoshuk/my-personal-website/blob/master/public/images/project-4.jpg?raw=true)
 
 
 
