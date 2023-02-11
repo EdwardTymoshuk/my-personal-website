@@ -8,7 +8,7 @@ React, Next, Styled Components
 
 ## Screenshot
 
-(public/images/project-4.jpg)
+(public/images/project-4.jpg?raw=true)
 
 
 
