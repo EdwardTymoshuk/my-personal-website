@@ -1,0 +1,56 @@
+export const projects = [
+  {
+    title: 'PostIt FullStack App',
+    description: "Full Stack web application which allows you to make posts, comment other's people posts, like it and delete your own posts. Application uses a Google Auth API for users login.",
+    image: '/images/project-postit.jpg',
+    tags: ['React', 'Next.js', 'Tailwind, Prisma, TypeScript'],
+    source: 'https://postit-react-next-app.vercel.app/',
+    visit: 'https://github.com/EdwardTymoshuk/postit-react-next-app',
+    id: 0,
+  },
+  {
+    title: 'My Personal Webpage (this website)',
+    description: "My fully responsiv personal website made with React library and Next.js framework. It uses a React Styled Components for app slyling.",
+    image: '/images/project-my-page.jpg',
+    tags: ['React', 'Next.js', 'Styled Component'],
+    source: '/',
+    visit: 'https://github.com/EdwardTymoshuk/my-personal-website',
+    id: 1,
+  },
+  {
+    title: 'Bon Bon Francais',
+  description: 'A fully working and responsive website for online French teacher. Website uses REST API communication to leave a new feenback and to get feedback from server.',
+      image: '/images/project-bonbonfrancais.jpg',
+      tags: ['HTML5', 'CSS3', 'JS', 'Bootstrap', 'MongoDB', 'Express'],
+    source: '/projects/bonbonfrancais',
+    visit: 'https://github.com/EdwardTymoshuk/Bonbonfrancais.online',
+    id: 2,
+  },
+  {
+    title: 'Metaverse Website',
+    description:"Modern React and Next.js page. Project represents only front end layer without functionality.",
+    image: '/images/project-metaverse.jpg',
+    tags: ['React', 'Next.js', 'Tailwind', 'Framer Motion'],
+    source: 'projects/metaversus-next-react-app',
+    visit: 'https://github.com/EdwardTymoshuk/metaversus-next-react-app',
+    id: 3,
+  },
+  {
+    title: 'Snake Game',
+    description: "My graduation project at Javascript course. It represents a simple game 'Snake' and is made with HTML5, CSS3 and Vanila Js. During this project I got a deeper knowledge of JS, wich helps me in my future projects.",
+    image: '/images/project-snake.jpg',
+    tags: ['HTML5', 'CSS3', 'JS'],
+    source: 'projects/snake',
+    visit: 'https://github.com/EdwardTymoshuk/SnakeApp',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2014, text: 'Got a Bachelon degree in Mathematic with IT', },
+  { year: 2015, text: 'Finished a postgraduate studies in "English in bussiness" field', },
+  { year: 2018, text: 'Started learning HTML and CSS on my own, finished a couple online courses', },
+  { year: 2019, text: 'Finished a JavaScript + React/Redux cours. Started making simple projects using learned technologies', },
+  { year: 2021, text: 'Still studying and making projects. Got some basic knowledge of TypeScript, Node.js, MongoDB, Express', },
+  { year: 2022, text: 'Developed my React skills (Hooks, Context API etc.), got acquainted SCSS and Tailwind tools. Started work as Web Developer at Crowbox company', },
+];
