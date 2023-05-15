@@ -45,7 +45,7 @@ const Timeline = (props) => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Hi, my name is Eduard Tymoshuk and I'm 28. I'm a Junior Front End Developer. From a young age, I was interested in web development, was trying to write my first code. Also I`ve learned a HTML, CSS and a basic JavaScript by myself. In 2019, I`ve finished the "JavaScript + React/Redux" course where I got to know the React library, and since then actively spreading my knowledge in this area, completing educational projects, and also being interested in other things related to this technology. You can see several of my example apps in the projects section. For more code please check my <a href="https://github.com/EdwardTymoshuk" target="_blanck">GitHub</a>. Feel free to contact me for more info!
+      Hi, my name is Eduard Tymoshuk and I'm 28. I'm a Junior Front End Developer. From a young age, I was interested in web development, was trying to write my first code. Also I`ve learned a HTML, CSS and a basic JavaScript by myself. In 2019, I`ve finished the "JavaScript + React/Redux" course where I got to know the React library, and since then actively spreading my knowledge in this area, completing educational projects, and also being interested in other things related to this technologies. You can see several of my example apps in the projects section. For more code please check my <a href="https://github.com/EdwardTymoshuk" target="_blanck">GitHub</a>. Feel free to contact me for more info!
       </SectionText>
       <Button onClick={props.handleClick}><Link href='/Eduard-Tymoshuk-cv.pdf' target="_blank">Watch CV</Link></Button>
 

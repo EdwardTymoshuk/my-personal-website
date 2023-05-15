@@ -24,6 +24,7 @@ const Technologies = () =>  (
             JavaScript (ES6) <br />
             TypeScript <br />
             React.js
+            Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,7 +37,8 @@ const Technologies = () =>  (
           <ListParagraph>
             Node.js <br />
             MongoDB <br />
-            Express 
+            Express
+            Prisma
           </ListParagraph>
         </ListContainer>
       </ListItem>
