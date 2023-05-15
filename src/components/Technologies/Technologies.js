@@ -23,7 +23,7 @@ const Technologies = () =>  (
             CSS3 (SCSS, Tailwind, Styled Components, Bootstrap) <br />
             JavaScript (ES6) <br />
             TypeScript <br />
-            React.js
+            React.js <br />
             Next.js
           </ListParagraph>
         </ListContainer>
@@ -37,7 +37,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Node.js <br />
             MongoDB <br />
-            Express
+            Express <br />
             Prisma
           </ListParagraph>
         </ListContainer>
