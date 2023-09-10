@@ -2,10 +2,10 @@ export const projects = [
   {
     title: 'E-commerce NextJs page (front end)',
     description: "E-commerce-front is a sleek web application that serves as the frontend for an online e-commerce platform. It offers users an engaging shopping experience with features like product catalog browsing, efficient product search, convenient filtering by category or color, and a responsive shopping cart. Users can quickly find and purchase products in a modern and user-friendly interface. Active development ensures ongoing enhancements and improvements.",
-    image: '/images/project-ecommerce-next-app-front.jpg',
+    image: '/images/project-ecommerce-next-app-front.png',
     tags: ['Next.js', 'Styled Component', 'Prisma', 'MongoDB'],
-    source: 'projects/ecommerce-next-app-front',
-    visit: 'https://github.com/EdwardTymoshuk/https://github.com/dejwid/ecommerce-front',
+    source: 'https://e-commerce-front-opal.vercel.app/',
+    visit: 'https://github.com/EdwardTymoshuk/e-commerce-front',
     id: 0,
   },
   {
